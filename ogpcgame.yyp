@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "3f7dc1f9-a28b-4b9f-ab86-99e20b95dce4",
+            "Value": {
+                "id": "518a48c2-884e-48c8-87bf-2927ac2376c2",
+                "resourcePath": "sprites\\s_starfield\\s_starfield.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4d8fa918-1bda-4a3f-b28d-d4bc8a0f790c",
             "Value": {
                 "id": "51c7e76a-4588-434c-b55e-b5fe1d77e730",
