@@ -2,7 +2,7 @@
     "id": "fd426b0f-882f-444d-b07f-b1e158b0247f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_enemy",
+    "name": "o_meteor",
     "eventList": [
         
     ],

@@ -34,7 +34,7 @@
             "Key": "0692bbc4-1c23-4fbc-b8ab-d7df4fa02b53",
             "Value": {
                 "id": "1a2dc83f-bbcd-4023-9f54-454f9f359b53",
-                "resourcePath": "sprites\\s_enemy\\s_enemy.yy",
+                "resourcePath": "sprites\\s_meteor\\s_meteor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -266,7 +266,7 @@
             "Key": "fd426b0f-882f-444d-b07f-b1e158b0247f",
             "Value": {
                 "id": "8c3993e1-6108-4b55-bb96-b9a9d623c700",
-                "resourcePath": "objects\\o_enemy\\o_enemy.yy",
+                "resourcePath": "objects\\o_meteor\\o_meteor.yy",
                 "resourceType": "GMObject"
             }
         }
