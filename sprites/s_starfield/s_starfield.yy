@@ -36,6 +36,28 @@
                     "LayerId": "00e48f19-2117-4148-8fa0-0a4dfda0db87"
                 }
             ]
+        },
+        {
+            "id": "d69562d2-831c-4efc-9f6c-8e10339561fa",
+            "modelName": "GMSpriteFrame",
+            "mvc": "1.0",
+            "SpriteId": "3f7dc1f9-a28b-4b9f-ab86-99e20b95dce4",
+            "compositeImage": {
+                "id": "e1eaeff4-4b04-44e9-bac4-5a7fadb4e8d6",
+                "modelName": "GMSpriteImage",
+                "mvc": "1.0",
+                "FrameId": "d69562d2-831c-4efc-9f6c-8e10339561fa",
+                "LayerId": "00000000-0000-0000-0000-000000000000"
+            },
+            "images": [
+                {
+                    "id": "481bb23f-4259-4592-abc2-01b7cb5c03ce",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "d69562d2-831c-4efc-9f6c-8e10339561fa",
+                    "LayerId": "00e48f19-2117-4148-8fa0-0a4dfda0db87"
+                }
+            ]
         }
     ],
     "gridX": 0,
@@ -56,7 +78,7 @@
     ],
     "origin": 4,
     "originLocked": true,
-    "playbackSpeed": 15,
+    "playbackSpeed": 2,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
     "sepmasks": false,

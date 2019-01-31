@@ -3,19 +3,29 @@ var right = keyboard_check(vk_right);
 var left = keyboard_check(vk_left);
 var down = keyboard_check(vk_down);
 var our_speed = 10;
+var xx = 0;
+var yy = 0;
 
 if (right) {
-	x += our_speed;
+	xx = x + our_speed;
 }
 
 if (left) {
-	x -= our_speed;
+	xx = x - our_speed;
 }
 
 if (up) {
-	y -= our_speed;
+	yy = y - our_speed;
 }
 
 if (down) {
-	y += our_speed;
+	yy = y + our_speed;
+}
+
+if ((xx > 32) and (xx < room_width - 32) ) {
+	x = xx;
+}
+
+if ((yy > 32) and (yy < room_height - 32) ) {
+	y = yy;
 }
