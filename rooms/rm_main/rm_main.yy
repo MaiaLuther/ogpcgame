@@ -47,7 +47,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Background",
+            "name": "Starfield",
             "id": "96e6e97a-a911-4062-92c5-a12d951253c7",
             "animationFPS": 15,
             "animationSpeedType": "0",
@@ -58,7 +58,7 @@
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
-            "htiled": true,
+            "htiled": false,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -70,13 +70,13 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "3f7dc1f9-a28b-4b9f-ab86-99e20b95dce4",
+            "spriteId": "2ebeb9a0-715e-4abf-8ae7-276ccdb47e0c",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
             "vspeed": 0,
-            "vtiled": true,
+            "vtiled": false,
             "x": 0,
             "y": 0
         }
