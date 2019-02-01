@@ -22,10 +22,18 @@ if (down) {
 	yy = y + our_speed;
 }
 
+//Room Walls
 if ((xx > 32) and (xx < room_width - 32) ) {
 	x = xx;
+	o2 -= o2_per_move;
 }
 
 if ((yy > 32) and (yy < room_height - 32) ) {
 	y = yy;
+	o2 -= o2_per_move;
+}
+
+//When you run out of oxygen you die
+if (o2 <= 0) {
+	player_dies();
 }

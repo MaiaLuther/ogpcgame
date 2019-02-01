@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2bc23274-181f-43b6-8f0a-c13b1caed400",
+            "Value": {
+                "id": "d4cacb08-2f69-4cbc-a115-4894df5d617f",
+                "resourcePath": "scripts\\player_dies\\player_dies.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2d5a2753-ed6a-4f15-98e4-71cac633961d",
             "Value": {
                 "id": "e4758899-b2d0-40b8-9074-272f7b908213",
@@ -272,7 +280,7 @@
         }
     ],
     "script_order": [
-        
+        "2bc23274-181f-43b6-8f0a-c13b1caed400"
     ],
     "tutorial": ""
 }
