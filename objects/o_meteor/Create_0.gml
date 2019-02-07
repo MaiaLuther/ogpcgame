@@ -9,4 +9,4 @@ image_angle = irandom_range(0,359);
 //} else {
 //	speed = irandom_range(1,10);
 //}
-speed = 1/thescale * 5;
+speed = 1/thescale * 3;
