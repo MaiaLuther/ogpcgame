@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "aedd9aef-058a-4392-9f5c-506b11c4138a",
+            "Value": {
+                "id": "7e94cff6-5bf9-44c5-b45b-b9b7976587b7",
+                "resourcePath": "sounds\\sound_crash\\sound_crash.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b141499e-0f0a-45f2-b4fd-558548610bda",
             "Value": {
                 "id": "4b1559de-6d54-4417-8c45-f2eb4c3c1ef2",
