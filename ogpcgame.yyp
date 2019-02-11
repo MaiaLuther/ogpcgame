@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "84e74af8-ec95-44a8-8485-fdd5e46716d4",
+            "Value": {
+                "id": "7a4c78d0-0291-4411-8c17-7c7414332a36",
+                "resourcePath": "sprites\\s_NikosDysfunctionalPlant\\s_NikosDysfunctionalPlant.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "91712aab-1ddc-4af0-9a7f-21f6bd7eddce",
             "Value": {
                 "id": "45b15c2b-ea3a-4de8-b32d-7f4a39c0c973",
