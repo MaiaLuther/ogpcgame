@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "7c4e3e82-be7c-4dd7-9f10-942a911fd252",
+            "Value": {
+                "id": "5a30d69f-2ed1-4bb7-b45d-0f87a3e8924c",
+                "resourcePath": "sprites\\startbutton\\startbutton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f904b00-726b-40fe-8e49-435509f82fde",
             "Value": {
                 "id": "654d4c4a-5cfe-474d-aa04-c4df3ec1d80d",
@@ -172,6 +180,14 @@
                 "id": "7a4c78d0-0291-4411-8c17-7c7414332a36",
                 "resourcePath": "sprites\\s_NikosDysfunctionalPlant\\s_NikosDysfunctionalPlant.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8ecd8f01-7015-460c-a6ad-7afe3f3c8ba4",
+            "Value": {
+                "id": "41099316-684e-4dd4-86f4-964f75ed0a23",
+                "resourcePath": "rooms\\rm_startpage\\rm_startpage.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -252,6 +268,14 @@
                 "id": "769373fd-7ce6-4609-b48c-9a4a1a73ceb4",
                 "resourcePath": "sounds\\sound_woosh\\sound_woosh.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "dd93c568-0ed4-44cb-885e-a00ae2938384",
+            "Value": {
+                "id": "6e224ec1-6e6e-4639-91d1-7a54f73e53a5",
+                "resourcePath": "objects\\start\\start.yy",
+                "resourceType": "GMObject"
             }
         },
         {
