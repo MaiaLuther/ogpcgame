@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "e28bd2c3-ea14-4268-bbd4-a1109e3f0de0",
+            "Value": {
+                "id": "7f6ca4c6-53d6-4976-a936-b3e559de40d6",
+                "resourcePath": "fonts\\f_o2\\f_o2.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "ec668585-01d1-4fb2-90ba-d5d559d00801",
             "Value": {
                 "id": "c75375ed-5682-4d9a-9e91-cab757fd8851",
