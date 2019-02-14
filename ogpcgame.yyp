@@ -183,6 +183,22 @@
             }
         },
         {
+            "Key": "863d8133-b8af-4afd-bc5a-6f841e8be775",
+            "Value": {
+                "id": "01c5c1c3-6dae-4a41-aab1-363329c8b2e0",
+                "resourcePath": "fonts\\f_start\\f_start.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "89dd5f9b-f23f-4630-8a22-6945a4b5eb5f",
+            "Value": {
+                "id": "252d8371-cdd3-4ce1-b402-d303765f931c",
+                "resourcePath": "objects\\object5\\object5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8ecd8f01-7015-460c-a6ad-7afe3f3c8ba4",
             "Value": {
                 "id": "41099316-684e-4dd4-86f4-964f75ed0a23",
