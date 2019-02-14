@@ -37,3 +37,15 @@ if ((yy > 32) and (yy < room_height - 32) ) {
 if (o2 <= 0) {
 	player_dies();
 }
+
+if(keyboard_check(vk_left)){
+	image_angle = image_angle + 10;
+}
+
+if(keyboard_check(vk_right)){
+	image_angle = image_angle - 10;
+}
+
+if(keyboard_check(vk_up)){
+	motion_add(image_angle, 0.05);
+}
