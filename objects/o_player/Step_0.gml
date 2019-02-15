@@ -41,4 +41,4 @@ if (o2 <= 0) {
 	player_dies();
 }
 
-move_wrap(true,true,32);
+move_wrap(true,true,33);
