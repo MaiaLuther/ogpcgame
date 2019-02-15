@@ -8,14 +8,17 @@ var yy = 0;
 
 if (right) {
 	xx = x + our_speed;
+	image_angle = image_angle - 10;
 }
 
 if (left) {
-	xx = x - our_speed;
+	xx = x - our_speed; 
+	image_angle = image_angle + 10;
 }
 
 if (up) {
 	yy = y - our_speed;
+	motion_add(image_angle, 0.05);
 }
 
 if (down) {
@@ -23,12 +26,12 @@ if (down) {
 }
 
 //Room Walls
-if ((xx > 32) and (xx < room_width - 32) ) {
+if (xx != 0) {
 	x = xx;
 	o2 -= o2_per_move;
 }
 
-if ((yy > 32) and (yy < room_height - 32) ) {
+if (yy != 0) {
 	y = yy;
 	o2 -= o2_per_move;
 }
@@ -38,14 +41,4 @@ if (o2 <= 0) {
 	player_dies();
 }
 
-if(keyboard_check(vk_left)){
-	image_angle = image_angle + 10;
-}
-
-if(keyboard_check(vk_right)){
-	image_angle = image_angle - 10;
-}
-
-if(keyboard_check(vk_up)){
-	motion_add(image_angle, 0.05);
-}
+move_wrap(true,true,32);
