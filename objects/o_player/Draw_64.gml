@@ -2,8 +2,21 @@ draw_self();
 var w = c_white;
 var r = c_red;
 var starty = 120;
-var yy = starty + o2;
-draw_rectangle_color(120,100,yy,starty,r,r,r,r,false);
+var o2x = starty + o2;
+var topx = 120;
+var topy = 100;
+var plantx = starty + (plant * 5);
+
+
+//o2
+draw_rectangle_color(topx,topy,o2x,starty,r,r,r,r,false);
 draw_set_font(f_o2);
-draw_text_color(100,100,string(o2),w,w,w,w,1);
-//draw_text_color(x,y+10,string(global.my_lives),c,c,c,c,1);
+draw_text_color(topx - 20,topy,string(o2),w,w,w,w,1);
+
+
+//plant
+var g = c_green;
+var offset = 30;
+draw_rectangle_color(topx,topy+offset,plantx,starty+offset,g,g,g,g,false);
+draw_set_font(f_o2);
+draw_text_color(topx - 20,topy + offset,string(plant),w,w,w,w,1);
