@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "222f2fcb-32da-4164-aaec-73552b987819",
+            "Value": {
+                "id": "eb110864-1dd0-4bb1-b313-f566b565b886",
+                "resourcePath": "fonts\\f_instructionstext\\f_instructionstext.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "2bc23274-181f-43b6-8f0a-c13b1caed400",
             "Value": {
                 "id": "d4cacb08-2f69-4cbc-a115-4894df5d617f",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "734f6bb3-36a7-4c2f-8b5b-89ae103a70e5",
+            "Value": {
+                "id": "020ec0a9-a222-493f-98c1-a98cda58ff3c",
+                "resourcePath": "objects\\o_instructionstext\\o_instructionstext.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "78878271-3529-4633-977d-df8944c46f76",
             "Value": {
                 "id": "6eb09e34-e824-4354-b222-469630f6a18c",
@@ -247,6 +263,14 @@
             }
         },
         {
+            "Key": "8a238dbd-7c52-4650-bc81-f8034cf5bd24",
+            "Value": {
+                "id": "64c97965-6173-4522-8aec-1fae75a2d4d4",
+                "resourcePath": "fonts\\f_backtohome\\f_backtohome.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "8ecd8f01-7015-460c-a6ad-7afe3f3c8ba4",
             "Value": {
                 "id": "41099316-684e-4dd4-86f4-964f75ed0a23",
@@ -308,6 +332,14 @@
                 "id": "4b1559de-6d54-4417-8c45-f2eb4c3c1ef2",
                 "resourcePath": "views\\b141499e-0f0a-45f2-b4fd-558548610bda.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b26122de-703a-48b0-b56d-a194cd84dca4",
+            "Value": {
+                "id": "a8b7428e-0fe5-4948-9793-9070691234fd",
+                "resourcePath": "objects\\o_hometext\\o_hometext.yy",
+                "resourceType": "GMObject"
             }
         },
         {
