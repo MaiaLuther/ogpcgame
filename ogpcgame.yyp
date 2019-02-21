@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "b2b723a7-ba84-4f0a-b186-8fb76d5ca8b9",
+            "Value": {
+                "id": "aa0ab23f-14fd-4077-99be-44fa03cadd43",
+                "resourcePath": "fonts\\f_BarCounters\\f_BarCounters.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "c98230ab-5eb2-4d96-8a83-62de5542b93a",
             "Value": {
                 "id": "1e7765be-1d05-401c-bbcb-09d80e0fb0f7",
