@@ -1,4 +1,4 @@
-global.my_lives = 3;
+global.my_lives = 5;
 alarm[0] = 10;
 
 repeat (5) {
