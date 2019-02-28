@@ -11,7 +11,7 @@ var plantx = starty + (plant * 5);
 //o2
 draw_rectangle_color(topx,topy,o2x,starty,r,r,r,r,false);
 draw_set_font(f_BarCounters);
-draw_text_color(topx - 20,topy,string(o2),w,w,w,w,1);
+draw_text_color(topx - 20,topy,string(round(o2)),w,w,w,w,1);
 
 
 //plant
