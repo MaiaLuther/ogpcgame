@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "066b1ba2-1dda-4374-b015-9a40c3b69fd1",
+            "Value": {
+                "id": "4b3999e5-e946-4383-a5dc-f00951123f43",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "0692bbc4-1c23-4fbc-b8ab-d7df4fa02b53",
             "Value": {
                 "id": "1a2dc83f-bbcd-4023-9f54-454f9f359b53",
@@ -439,6 +447,14 @@
             }
         },
         {
+            "Key": "a0c391fc-75e9-4ed0-9d8f-e2e102792925",
+            "Value": {
+                "id": "9b6b6d4c-73d3-4fb7-9742-6bc128d43b33",
+                "resourcePath": "paths\\path1\\path1.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "88f1cf67-b3e7-4841-8a3c-3e9edcfe7ded",
@@ -499,6 +515,14 @@
             "Value": {
                 "id": "c3a4b9b1-e036-4219-8e5f-6e446fc8b720",
                 "resourcePath": "objects\\o_highscoresroomtext\\o_highscoresroomtext.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c03797eb-a74c-46a3-a7e3-ec48ea5dfb9e",
+            "Value": {
+                "id": "d232e7da-419c-401a-a1b8-9a08e56b9832",
+                "resourcePath": "objects\\o_startpagedummy\\o_startpagedummy.yy",
                 "resourceType": "GMObject"
             }
         },
