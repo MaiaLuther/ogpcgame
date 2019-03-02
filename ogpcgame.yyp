@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0eb8c282-91e8-433d-883a-5796158e241a",
+            "Value": {
+                "id": "0277106e-e605-450b-84e0-107ceaeff1e7",
+                "resourcePath": "fonts\\f_highscorestext\\f_highscorestext.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "12588f7e-454d-46e4-ad62-7559671c0434",
             "Value": {
                 "id": "dd100884-7ad0-4bbd-9462-2314c5483e30",
@@ -63,6 +71,14 @@
             }
         },
         {
+            "Key": "16912907-b265-439e-bfd0-0d3a0fd995c9",
+            "Value": {
+                "id": "29f48125-2bbe-40aa-8276-149a65875e12",
+                "resourcePath": "rooms\\rm_highscores\\rm_highscores.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1d54b5e4-213e-453d-8f68-6a25a697cba6",
             "Value": {
                 "id": "2ebc0cc8-16e6-4c53-9f3f-2a4c3257e432",
@@ -76,6 +92,22 @@
                 "id": "eb110864-1dd0-4bb1-b313-f566b565b886",
                 "resourcePath": "fonts\/f_instructionstext\/f_instructionstext.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "29061450-a027-468b-8695-0db50fff5677",
+            "Value": {
+                "id": "89f2ff2a-853f-4f2c-ab79-851e20a9aa6c",
+                "resourcePath": "fonts\\f_highscoresesctext\\f_highscoresesctext.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "2aed20d5-a035-4a26-85c7-8f770dbd9b68",
+            "Value": {
+                "id": "228f6601-dce2-4c80-8762-a05e92e1643e",
+                "resourcePath": "sprites\\s_highscoresbutton\\s_highscoresbutton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -132,6 +164,14 @@
                 "id": "518a48c2-884e-48c8-87bf-2927ac2376c2",
                 "resourcePath": "sprites\/s_starfield\/s_starfield.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "41257303-41e4-41a6-9efb-224e61199ddd",
+            "Value": {
+                "id": "c0b60cd1-2758-4f31-9dfb-bada768059ad",
+                "resourcePath": "objects\\o_highscoresbutton\\o_highscoresbutton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -391,6 +431,14 @@
             }
         },
         {
+            "Key": "d5222545-9f4e-4bfd-9785-2f63cc9e2412",
+            "Value": {
+                "id": "5c205eaf-854b-41ec-bf9d-75ca8ce2611d",
+                "resourcePath": "objects\\o_highscorestext\\o_highscorestext.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd3114a7-e850-4420-aa03-aa3ee073250d",
             "Value": {
                 "id": "769373fd-7ce6-4609-b48c-9a4a1a73ceb4",
@@ -431,6 +479,14 @@
             }
         },
         {
+            "Key": "e76b8945-681a-411f-aa48-94b807576227",
+            "Value": {
+                "id": "6283e9c1-fed9-4a5b-8824-14c433a29830",
+                "resourcePath": "objects\\o_highscorestextesc\\o_highscorestextesc.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ec668585-01d1-4fb2-90ba-d5d559d00801",
             "Value": {
                 "id": "c75375ed-5682-4d9a-9e91-cab757fd8851",
@@ -444,6 +500,14 @@
                 "id": "1afe4932-d547-4907-a483-c90c1483d9c4",
                 "resourcePath": "views\/ee3d59aa-5f03-49dc-9b05-3ff2709124a4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f00f5384-8160-4b8f-97ce-98a8c7a7f2f1",
+            "Value": {
+                "id": "37527438-1d3a-4a5f-9b85-2d2aacd1d836",
+                "resourcePath": "objects\\o_highscores\\o_highscores.yy",
+                "resourceType": "GMObject"
             }
         },
         {
