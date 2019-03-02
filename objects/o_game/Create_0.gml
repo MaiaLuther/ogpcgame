@@ -1,4 +1,5 @@
 global.my_lives = 5;
+//Spawn amounts for oxygen tanks and plants
 alarm[0] = 10;
 
 repeat (5) {

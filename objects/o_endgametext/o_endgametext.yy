@@ -1,10 +1,19 @@
 {
-    "id": "52406178-b906-4bcc-87e1-3d9d2cf48a97",
+    "id": "8a47fb9e-a0ea-430e-970a-28ee782ae114",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_highscoresgoldborder",
+    "name": "o_endgametext",
     "eventList": [
-        
+        {
+            "id": "946f07ee-3c84-48b9-b169-26fd9e07b2d7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "8a47fb9e-a0ea-430e-970a-28ee782ae114"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

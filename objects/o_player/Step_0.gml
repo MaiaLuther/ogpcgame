@@ -6,6 +6,7 @@ var our_speed = 10;
 var xx = 0;
 var yy = 0;
 
+//Movement
 if (right) {
 	xx = x + our_speed;
 	image_angle = image_angle - 10;

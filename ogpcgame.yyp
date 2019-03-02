@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "44ef923f-8654-4128-a46d-f1f2b9c9d6b5",
+            "Value": {
+                "id": "d5404e17-8e16-4c49-95f5-c418af74301c",
+                "resourcePath": "fonts\\f_endgametitletext\\f_endgametitletext.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "4556415c-99e8-42d1-a87a-f6c018a2c037",
             "Value": {
                 "id": "69d2dbf9-7e8b-454c-80d9-cec5192dafae",
@@ -244,14 +252,6 @@
                 "id": "fd3d43d0-3428-437f-8bc1-82b2fd255f97",
                 "resourcePath": "views\/51d15fda-8cd6-4355-aa09-b446cfbd43a8.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "52406178-b906-4bcc-87e1-3d9d2cf48a97",
-            "Value": {
-                "id": "03123130-35bd-47c6-a4fe-6dcebe2b7334",
-                "resourcePath": "objects\\o_highscoresgoldborder\\o_highscoresgoldborder.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "7e75b1d0-b965-4051-80cc-54ea6760678d",
+            "Value": {
+                "id": "694b43ff-b6fc-466f-a74c-22ab06c984cf",
+                "resourcePath": "sprites\\s_endgamebox\\s_endgamebox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f904b00-726b-40fe-8e49-435509f82fde",
             "Value": {
                 "id": "654d4c4a-5cfe-474d-aa04-c4df3ec1d80d",
@@ -343,6 +351,14 @@
             }
         },
         {
+            "Key": "81fc2060-f96f-403f-9161-05e09eb5acf1",
+            "Value": {
+                "id": "5a6aecde-01d4-4a5a-b1c9-042982b34098",
+                "resourcePath": "objects\\o_endgamebox\\o_endgamebox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "84e74af8-ec95-44a8-8485-fdd5e46716d4",
             "Value": {
                 "id": "7a4c78d0-0291-4411-8c17-7c7414332a36",
@@ -372,6 +388,14 @@
                 "id": "64c97965-6173-4522-8aec-1fae75a2d4d4",
                 "resourcePath": "fonts\/f_backtohome\/f_backtohome.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "8a47fb9e-a0ea-430e-970a-28ee782ae114",
+            "Value": {
+                "id": "a1df5cd5-c2ce-42c7-ae4c-a5bd7f6bc344",
+                "resourcePath": "objects\\o_endgametext\\o_endgametext.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -436,6 +460,14 @@
                 "id": "7e94cff6-5bf9-44c5-b45b-b9b7976587b7",
                 "resourcePath": "sounds\/sound_crash\/sound_crash.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b00cf7b3-ae5a-49c5-a7c5-da4ed2215057",
+            "Value": {
+                "id": "9dcc2184-d2ff-414b-9d55-3e3451141a32",
+                "resourcePath": "fonts\\f_endgametext\\f_endgametext.yy",
+                "resourceType": "GMFont"
             }
         },
         {
