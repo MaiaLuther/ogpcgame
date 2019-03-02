@@ -1,6 +1,8 @@
-global.my_lives = global.my_lives-1;
+o_player.mylives = o_player.mylives - 1;
+//Sets oxygen to 100 when you die (fixes a glitch)
+o_player.o2 = o_player.start_o2;
 //room_restart();
-if (global.my_lives <= 0) {
+if (o_player.mylives <= 0) {
 	room_restart();
 }
 x = room_width/2;

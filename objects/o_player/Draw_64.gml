@@ -24,7 +24,7 @@ draw_text_color(topx - 20,topy + offset,string(plant),w,w,w,w,1);
 //lives
 
 draw_set_font(f_BarCounters);
-draw_text_color(topx - 20,topy + offset * 2,string(global.my_lives),w,w,w,w,1);
+draw_text_color(topx - 20,topy + offset * 2,string(mylives),w,w,w,w,1);
 
 //Titles
 

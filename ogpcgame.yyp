@@ -111,14 +111,6 @@
             }
         },
         {
-            "Key": "30d932c2-2d3f-490c-8594-1a0e1b890ddc",
-            "Value": {
-                "id": "e6ef8548-1a77-4b3c-aee3-7c55657c547e",
-                "resourcePath": "sprites\\s_deathmeteor\\s_deathmeteor.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3239f45c-bab4-4857-8476-960f3a05b02c",
             "Value": {
                 "id": "bed7b607-b334-4cbb-87b7-5395c5a6c52b",
