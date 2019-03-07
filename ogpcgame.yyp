@@ -303,22 +303,6 @@
             }
         },
         {
-            "Key": "78878271-3529-4633-977d-df8944c46f76",
-            "Value": {
-                "id": "6eb09e34-e824-4354-b222-469630f6a18c",
-                "resourcePath": "sprites\/homebutton\/homebutton.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7c4e3e82-be7c-4dd7-9f10-942a911fd252",
-            "Value": {
-                "id": "5a30d69f-2ed1-4bb7-b45d-0f87a3e8924c",
-                "resourcePath": "sprites\/startbutton\/startbutton.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7e75b1d0-b965-4051-80cc-54ea6760678d",
             "Value": {
                 "id": "694b43ff-b6fc-466f-a74c-22ab06c984cf",
@@ -386,7 +370,7 @@
             "Key": "89dd5f9b-f23f-4630-8a22-6945a4b5eb5f",
             "Value": {
                 "id": "252d8371-cdd3-4ce1-b402-d303765f931c",
-                "resourcePath": "objects\/o_presstostart\/o_presstostart.yy",
+                "resourcePath": "objects\\o_pressentertostart\\o_pressentertostart.yy",
                 "resourceType": "GMObject"
             }
         },
