@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "69dac4b8-f8c3-4029-8e55-28fa11070f58",
+            "Value": {
+                "id": "e82d0968-a1cf-4b60-aa10-96cd60a725f1",
+                "resourcePath": "fonts\\f_instructions\\f_instructions.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "6c6f8bcf-d326-4d85-8cf1-e5afe1a211d7",
             "Value": {
                 "id": "214b4ef8-c6f4-43d8-938d-2560206304aa",
@@ -356,6 +364,14 @@
                 "id": "7a4c78d0-0291-4411-8c17-7c7414332a36",
                 "resourcePath": "sprites\/s_NikosDysfunctionalPlant\/s_NikosDysfunctionalPlant.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8609f1f6-f012-41da-ba78-6f9f1255a8d8",
+            "Value": {
+                "id": "24589e92-90bb-465d-98cc-49d4ee80d14b",
+                "resourcePath": "objects\\o_instructions\\o_instructions.yy",
+                "resourceType": "GMObject"
             }
         },
         {
