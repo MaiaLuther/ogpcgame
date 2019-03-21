@@ -1,3 +1,14 @@
+if (keyboard_check_released(vk_space)) {
+	if (! pause) {
+		pause = true;
+		instance_deactivate_all(true);
+		speed = 0;
+		exit;
+	} else {
+		pause = false;
+		instance_activate_all();
+	}
+}
 var up = keyboard_check(vk_up) or keyboard_check(ord("W"));
 var right = keyboard_check(vk_right) or keyboard_check(ord("D"));
 var left = keyboard_check(vk_left) or keyboard_check(ord("A"));
@@ -43,3 +54,4 @@ if (o2 <= 0) {
 }
 
 move_wrap(true,true,36);
+

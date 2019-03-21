@@ -9,3 +9,4 @@ alarm[0] = o2_tick;
 //My lives value and plant value
 plant = 0;
 mylives = 5;
+pause = false;
