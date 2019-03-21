@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "09cbc14d-44b5-4889-9e24-2499f16c6f34",
+            "Value": {
+                "id": "5e361845-836a-4107-a93e-1692b8c2dda3",
+                "resourcePath": "objects\\o_gameE\\o_gameE.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0a6bc2d2-25b8-4f4e-8356-81e6eb24fc3a",
             "Value": {
                 "id": "c5bd2d81-8066-41e2-80be-9fd07d096884",
@@ -351,6 +359,14 @@
             }
         },
         {
+            "Key": "5e5db419-0e60-4e8d-9add-9f42428002d7",
+            "Value": {
+                "id": "32f917cf-5c95-4d43-8717-83e4b4c332ed",
+                "resourcePath": "rooms\\rm_easteregg\\rm_easteregg.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "652776f3-dea3-4606-8a12-49eacf80e11e",
             "Value": {
                 "id": "07b97f0c-9573-433c-bc57-b0e2a8814512",
@@ -524,6 +540,14 @@
                 "id": "b5fe531c-6397-4522-8636-9a9f15d83d38",
                 "resourcePath": "sprites\/s_highscoresborder\/s_highscoresborder.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d8b786d-89c7-4d0f-8f24-5f5a482cfe23",
+            "Value": {
+                "id": "e2270967-740d-4046-8d1b-77d0da9a4897",
+                "resourcePath": "objects\\o_playerTeleporter\\o_playerTeleporter.yy",
+                "resourceType": "GMObject"
             }
         },
         {
