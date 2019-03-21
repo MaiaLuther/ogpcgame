@@ -575,6 +575,14 @@
             }
         },
         {
+            "Key": "a8b9cb7a-c24d-40a0-b7d2-d32ebf152001",
+            "Value": {
+                "id": "aa0ac2fb-099f-4330-8a72-dc42327633a3",
+                "resourcePath": "objects\\o_playerinstructionspage\\o_playerinstructionspage.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "88f1cf67-b3e7-4841-8a3c-3e9edcfe7ded",
