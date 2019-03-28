@@ -1,16 +1,16 @@
 if (keyboard_check_released(vk_space)) {
-	if (! pause) {
-		pause = true;
+	if (! pauseEE) {
+		pauseEE = true;
 		instance_deactivate_all(true);
 		speed = 0;
 		
 	} else {
-		pause = false;
+		pauseEE = false;
 		instance_activate_all();
 	}
 }
 
-if (pause) {
+if (pauseEE) {
 	exit;
 }
 
@@ -46,12 +46,12 @@ if (down) {
 //Room Walls
 if (xx != 0) {
 	x = xx;
-	o2 -= o2_per_move;
+	o2EE -= o2_per_moveEE;
 }
 
 if (yy != 0) {
 	y = yy;
-	o2 -= o2_per_move;
+	o2EE -= o2_per_moveEE;
 }
 
 if (teleport) {
@@ -60,7 +60,7 @@ if (teleport) {
 }
 
 //When you run out of oxygen you die
-if (o2 <= 0) {
+if (o2EE <= 0) {
 	player_dies();
 }
 
