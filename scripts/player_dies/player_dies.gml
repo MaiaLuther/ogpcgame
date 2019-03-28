@@ -3,6 +3,8 @@ o_player.mylives = o_player.mylives - 1;
 o_player.o2 = o_player.start_o2;
 //room_restart();
 if (o_player.mylives <= 0) {
+	input = instance_create_layer(0,0,"Instances",o_textinput);
+	show_debug_message(input.message);
 	room_goto(rm_endgame);
 }
 x = room_width/2;
