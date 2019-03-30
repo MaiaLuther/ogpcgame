@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "o_highscoresbuttonEE",
     "eventList": [
-        {
-            "id": "978bc06a-8fcf-40cd-aa00-bcd9334d23ee",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "415949a7-1882-4453-acbc-b10458beb19c"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

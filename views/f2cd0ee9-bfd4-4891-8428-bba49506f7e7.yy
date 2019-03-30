@@ -11,7 +11,11 @@
         "dd902eb9-2d32-4626-b154-bfdb05838d27",
         "c5b0c32c-ba8d-466b-a103-157be29a9291",
         "76c00183-d02f-4d6f-9932-7c881bdf2424",
-        "1a917277-25a2-497d-813b-13235000aad3"
+        "1a917277-25a2-497d-813b-13235000aad3",
+        "924ee22e-830b-4f7a-a649-84479bf2d0f6",
+        "6089f250-d1ca-4001-ae52-54e0c0ec8840",
+        "1d9424b8-b801-47ad-9649-9af93b2d9d1a",
+        "60e1a474-f782-4d56-b7a2-fed06eb034c5"
     ],
     "filterType": "GMSprite",
     "folderName": "Easteregg",
