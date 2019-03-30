@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "1a917277-25a2-497d-813b-13235000aad3",
+            "Value": {
+                "id": "5ade52a8-556a-4d3b-8d23-568c3e5a621f",
+                "resourcePath": "sprites\\s_highscoresbuttonEE\\s_highscoresbuttonEE.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c2135cb-e46f-4f2a-aa02-c15ec579871b",
             "Value": {
                 "id": "fb631541-a91a-4e29-a1e7-d2e053e67312",
@@ -259,6 +267,14 @@
             "Value": {
                 "id": "c0b60cd1-2758-4f31-9dfb-bada768059ad",
                 "resourcePath": "objects\/o_highscoresbutton\/o_highscoresbutton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "415949a7-1882-4453-acbc-b10458beb19c",
+            "Value": {
+                "id": "2e68c713-6ae0-49cd-8ede-06c71db6cf75",
+                "resourcePath": "objects\\o_highscoresbuttonEE\\o_highscoresbuttonEE.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -452,6 +468,14 @@
                 "id": "0780d368-5dde-47eb-a9f3-26592f16458d",
                 "resourcePath": "options\/html5\/options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "76c00183-d02f-4d6f-9932-7c881bdf2424",
+            "Value": {
+                "id": "d84b175e-1b23-46ed-a72c-e5c94fd6d27a",
+                "resourcePath": "sprites\\instructionsbuttonEE\\instructionsbuttonEE.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -652,6 +676,14 @@
                 "id": "1d913d3e-11bc-43f9-a99c-6047c1366bb6",
                 "resourcePath": "options\/amazonfire\/options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a17fc8cf-d9d5-4948-8528-c232077d75c7",
+            "Value": {
+                "id": "da7180ac-ce46-4e85-9ac9-a0269a21359d",
+                "resourcePath": "objects\\instructionsEE\\instructionsEE.yy",
+                "resourceType": "GMObject"
             }
         },
         {

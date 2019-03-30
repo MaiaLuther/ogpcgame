@@ -10,7 +10,9 @@
         "1c2135cb-e46f-4f2a-aa02-c15ec579871b",
         "900f42d2-38c5-47bf-9e6b-73221fc59c0c",
         "f5d81cf0-a922-46ab-855b-0a5e790055ee",
-        "743c999a-6186-461f-9789-7de92d248976"
+        "743c999a-6186-461f-9789-7de92d248976",
+        "415949a7-1882-4453-acbc-b10458beb19c",
+        "a17fc8cf-d9d5-4948-8528-c232077d75c7"
     ],
     "filterType": "GMObject",
     "folderName": "Easteregg",
