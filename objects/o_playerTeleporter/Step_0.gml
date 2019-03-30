@@ -61,7 +61,7 @@ if (teleport) {
 
 //When you run out of oxygen you die
 if (o2EE <= 0) {
-	player_dies();
+	player_diesEE();
 }
 
 move_wrap(true,true,36);

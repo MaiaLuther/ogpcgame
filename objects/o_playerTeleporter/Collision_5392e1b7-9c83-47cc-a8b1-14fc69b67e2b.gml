@@ -1,2 +1,2 @@
 audio_play_sound(sound_crash,1,false);
-player_dies();
+player_diesEE();
