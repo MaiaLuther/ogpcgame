@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "743c999a-6186-461f-9789-7de92d248976",
+            "Value": {
+                "id": "d6c07d46-f866-42db-8720-a4cd5393b86a",
+                "resourcePath": "objects\\o_gamenameEE\\o_gamenameEE.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "754e9d0a-95d7-4632-962d-97d178b6a243",
             "Value": {
                 "id": "3bef5e03-30e9-4df7-be78-70fa44d18526",
@@ -647,6 +655,14 @@
             }
         },
         {
+            "Key": "a3404f7f-08f6-4a84-9b3e-fb272257e102",
+            "Value": {
+                "id": "b223d7c5-6e98-4366-8874-c0dc704b85bd",
+                "resourcePath": "rooms\\rm_startpageE\\rm_startpageE.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a8b9cb7a-c24d-40a0-b7d2-d32ebf152001",
             "Value": {
                 "id": "aa0ac2fb-099f-4330-8a72-dc42327633a3",
@@ -764,6 +780,14 @@
                 "id": "d232e7da-419c-401a-a1b8-9a08e56b9832",
                 "resourcePath": "objects\/o_startpagedummy\/o_startpagedummy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c5b0c32c-ba8d-466b-a103-157be29a9291",
+            "Value": {
+                "id": "7a8dc7a7-da57-4f73-b79e-2ad29f4f4823",
+                "resourcePath": "sprites\\s_gamenameEE\\s_gamenameEE.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -987,6 +1011,14 @@
             "Value": {
                 "id": "f0ce9811-ac44-48c9-a5be-ca05b6b67911",
                 "resourcePath": "objects\/o_instrucoxygen\/o_instrucoxygen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f5d81cf0-a922-46ab-855b-0a5e790055ee",
+            "Value": {
+                "id": "736f6728-df5d-44c9-af8a-931c1e362fec",
+                "resourcePath": "objects\\o_startpagedummyE\\o_startpagedummyE.yy",
                 "resourceType": "GMObject"
             }
         },
