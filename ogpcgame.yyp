@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "083f82e6-9a76-4543-aa46-6911a353d2eb",
+            "Value": {
+                "id": "9e8d4935-ca60-4df1-b483-0a233351d51e",
+                "resourcePath": "fonts\\f_arcadetext\\f_arcadetext.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "0902cf29-2266-4ab5-a454-23cc7925cea3",
             "Value": {
                 "id": "11316a72-9586-4d21-abe1-f19e85b04569",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "297257c9-6c69-48ee-8505-0aa6256e7c61",
+            "Value": {
+                "id": "cf82b25c-3624-4e27-a078-3f207a0d4265",
+                "resourcePath": "views\\297257c9-6c69-48ee-8505-0aa6256e7c61.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2aed20d5-a035-4a26-85c7-8f770dbd9b68",
             "Value": {
                 "id": "228f6601-dce2-4c80-8762-a05e92e1643e",
@@ -243,6 +259,14 @@
             "Value": {
                 "id": "5cfaa73f-f9c4-4b47-931c-7fc9b74f597e",
                 "resourcePath": "objects\/o_plantinstruc\/o_plantinstruc.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3918841f-dd75-46e8-a99c-4400c93a74a5",
+            "Value": {
+                "id": "eae5cfb9-e989-4392-ac51-99671cb660c8",
+                "resourcePath": "objects\\o_arcadetext\\o_arcadetext.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -423,6 +447,14 @@
             }
         },
         {
+            "Key": "5df1bc4c-b550-4a92-a1b6-099bd92f101a",
+            "Value": {
+                "id": "1d702d78-e5d4-411e-a1aa-372e9c995eb0",
+                "resourcePath": "objects\\o_arcadebutton\\o_arcadebutton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5e5cbc68-16ba-45d2-91cb-1eb3b6a6283a",
             "Value": {
                 "id": "764e2dd9-f551-4ebd-a7f3-b14c4c727007",
@@ -452,6 +484,14 @@
                 "id": "0d8794b8-ba09-4db0-a00c-3692a987cbd0",
                 "resourcePath": "sprites\\s_intruc_bgEE\\s_intruc_bgEE.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "63715561-72e3-45bd-a2a0-011fb29d6644",
+            "Value": {
+                "id": "ed557857-1546-4471-b464-3d5924368352",
+                "resourcePath": "rooms\\Arcade\\Arcade.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -700,6 +740,14 @@
                 "id": "a1df5cd5-c2ce-42c7-ae4c-a5bd7f6bc344",
                 "resourcePath": "objects\/o_endgametext\/o_endgametext.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8b455e33-857c-4992-ba81-4ab590942ac2",
+            "Value": {
+                "id": "8178d0f0-8f65-4a23-b44f-8ae5f6470b5c",
+                "resourcePath": "views\\8b455e33-857c-4992-ba81-4ab590942ac2.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
