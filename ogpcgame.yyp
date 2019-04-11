@@ -975,6 +975,14 @@
             }
         },
         {
+            "Key": "ceb34d7e-6ff0-4034-9a78-2e8061cc0239",
+            "Value": {
+                "id": "e4b2fd7d-0da3-4fd3-ab78-a88165942c6f",
+                "resourcePath": "objects\\o_buttonEE\\o_buttonEE.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d5222545-9f4e-4bfd-9785-2f63cc9e2412",
             "Value": {
                 "id": "5c205eaf-854b-41ec-bf9d-75ca8ce2611d",
@@ -1100,6 +1108,14 @@
                 "id": "9bdf5353-63b8-4249-ac0f-ce11293cab91",
                 "resourcePath": "objects\/o_highscoresrankline\/o_highscoresrankline.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "edc548e4-94af-4652-9c45-49dcde244b89",
+            "Value": {
+                "id": "74206491-2b5e-4a96-9678-6797dfaead34",
+                "resourcePath": "sprites\\s_buttonEE\\s_buttonEE.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
