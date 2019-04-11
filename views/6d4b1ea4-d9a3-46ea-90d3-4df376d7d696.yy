@@ -8,7 +8,9 @@
         "f6b23741-23a9-460f-ad39-571e1ae908c1",
         "b3f481c4-6ad3-440c-bcd5-aae795bc7e61",
         "f9574826-ba8c-4fd0-a66d-b8febb29ea4b",
-        "78a32f31-febe-459d-83a3-29298f336fe2"
+        "78a32f31-febe-459d-83a3-29298f336fe2",
+        "ac109cbb-9c13-4317-9290-97fcc9e34a4d",
+        "1cac4f5d-6cc8-49ee-b941-f7e428b34ca0"
     ],
     "filterType": "GMSprite",
     "folderName": "Arcade",
