@@ -154,7 +154,7 @@
             "Key": "17039626-b3f2-4660-86f8-92b22e17b075",
             "Value": {
                 "id": "8a4e50fd-62a3-4d71-b27b-d964ff3484bc",
-                "resourcePath": "sprites\\s_playerarcade\\s_playerarcade.yy",
+                "resourcePath": "sprites\\s_IDEA2\\s_IDEA2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1524,6 +1524,14 @@
                 "id": "c2154d68-5092-4a62-83e8-06e186e46e91",
                 "resourcePath": "objects\\o_invisible\\o_invisible.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e68c74ab-8dfd-45b9-9302-7d3565254c8e",
+            "Value": {
+                "id": "2ebe5a16-332f-462f-b065-62a5e4fb8bcf",
+                "resourcePath": "sprites\\s_playerarcade\\s_playerarcade.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
