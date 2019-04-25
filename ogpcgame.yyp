@@ -1447,6 +1447,14 @@
             }
         },
         {
+            "Key": "db121a85-a625-4603-b77a-5d79a2374b8a",
+            "Value": {
+                "id": "c636ed6a-771a-457d-b799-ce742facb824",
+                "resourcePath": "objects\\o_arcadetextesc\\o_arcadetextesc.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd3114a7-e850-4420-aa03-aa3ee073250d",
             "Value": {
                 "id": "769373fd-7ce6-4609-b48c-9a4a1a73ceb4",
