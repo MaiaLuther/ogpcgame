@@ -5,7 +5,7 @@ draw_text_color(450,75,"Highscores",c,c,c,c,1);
 
 //numbers 1-10
 draw_set_font(f_highscorestitletext);
-draw_text_color(295,113,"1",c,c,c,c,1);
+draw_text_color(295,113,"1" + global.name1 + " " + string(global.score1),c,c,c,c,1);
 
 draw_set_font(f_highscorestitletext);
 draw_text_color(295,177,"2",c,c,c,c,1);

@@ -1047,6 +1047,14 @@
             }
         },
         {
+            "Key": "97d70a28-bedb-4890-92d6-790f53a6d787",
+            "Value": {
+                "id": "487d3de0-da2a-4987-abc8-ac6f26f9d9b8",
+                "resourcePath": "objects\\o_highscores_persist\\o_highscores_persist.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b2bb913-472e-4212-8da3-4e37613062cb",
             "Value": {
                 "id": "371d08ea-d393-4058-ade4-17c35e90e646",
