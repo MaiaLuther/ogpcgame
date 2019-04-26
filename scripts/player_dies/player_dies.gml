@@ -3,7 +3,8 @@ o_player.mylives = o_player.mylives - 1;
 o_player.o2 = o_player.start_o2;
 //room_restart();
 if (o_player.mylives <= 0) {
-		room_goto(rm_highscoreinput);
+	global.player_score = o_player.plant;
+	room_goto(rm_highscoreinput);
 }
 x = room_width/2;
 y = room_height/2;
