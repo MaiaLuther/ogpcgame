@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "o_highscores_persist",
     "eventList": [
-        {
-            "id": "b98c97b1-2e1a-4e84-a18d-ef34354dd552",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "97d70a28-bedb-4890-92d6-790f53a6d787"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

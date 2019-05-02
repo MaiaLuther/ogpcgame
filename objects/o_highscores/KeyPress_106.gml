@@ -1,0 +1,2 @@
+/// Reset
+highscore_clear();
