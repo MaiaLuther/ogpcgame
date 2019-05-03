@@ -2,11 +2,13 @@ if (keyboard_check_released(vk_space)) {
 	if (! pause) {
 		pause = true;
 		instance_deactivate_all(true);
+//		alarm[0] = -1;
 		speed = 0;
 		
 	} else {
 		pause = false;
 		instance_activate_all();
+		alarm[0] = o2_tick;
 	}
 }
 
