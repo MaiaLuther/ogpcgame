@@ -30,7 +30,8 @@
         "3eb629fc-cb4f-4d56-91ff-be11e48ca11c",
         "b44e6b55-03db-4672-80f1-3dc711d2c9f3",
         "4cef65e5-5a2a-4106-9858-78454d993507",
-        "61d08927-f776-496f-ab26-0e03b16b9973"
+        "61d08927-f776-496f-ab26-0e03b16b9973",
+        "86763be6-cce5-4c3c-b0e9-346054ded111"
     ],
     "filterType": "GMSprite",
     "folderName": "Base Game",
