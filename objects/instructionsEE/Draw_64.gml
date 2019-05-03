@@ -1,5 +1,5 @@
 draw_self();
-var c = c_white;
+var c = c_black;
 draw_set_font(f_highscorestext);
 draw_set_halign(fa_center);
 draw_set_valign(fa_center);
