@@ -671,6 +671,14 @@
             }
         },
         {
+            "Key": "61d08927-f776-496f-ab26-0e03b16b9973",
+            "Value": {
+                "id": "5456bada-4b9f-4507-a347-ce1d9267de89",
+                "resourcePath": "sprites\\s_alienboi\\s_alienboi.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "63715561-72e3-45bd-a2a0-011fb29d6644",
             "Value": {
                 "id": "ed557857-1546-4471-b464-3d5924368352",
@@ -1251,6 +1259,14 @@
             "Value": {
                 "id": "6fcde7da-227f-45f6-9f35-f1dccaf52c1e",
                 "resourcePath": "objects\/o_halfspeedbutton\/o_halfspeedbutton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b9a1a726-39ab-4dc6-80eb-ebda4d70192a",
+            "Value": {
+                "id": "dd66cb5f-fc74-4f88-85c7-2428365fdff4",
+                "resourcePath": "objects\\o_alienboi\\o_alienboi.yy",
                 "resourceType": "GMObject"
             }
         },
