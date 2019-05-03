@@ -1655,6 +1655,14 @@
             }
         },
         {
+            "Key": "f3de2f75-ae5b-4064-b197-cd4be5882942",
+            "Value": {
+                "id": "2c600a87-9745-4388-b42d-b3bdfb8eeb1d",
+                "resourcePath": "objects\\o_highscorestitle\\o_highscorestitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "3af2cc05-efce-4444-996a-057f69f0dc1c",

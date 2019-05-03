@@ -41,7 +41,8 @@
         "bc18f82b-97b2-4c61-b5de-5582ab451ce7",
         "ea07ce9b-3455-4df2-8b9f-8940df0095e3",
         "97d70a28-bedb-4890-92d6-790f53a6d787",
-        "1d9c9baf-7bf4-44bb-b1b3-f0754ff60994"
+        "1d9c9baf-7bf4-44bb-b1b3-f0754ff60994",
+        "f3de2f75-ae5b-4064-b197-cd4be5882942"
     ],
     "filterType": "GMObject",
     "folderName": "Base Game",
