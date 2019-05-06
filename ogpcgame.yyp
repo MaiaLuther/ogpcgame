@@ -1735,6 +1735,14 @@
             }
         },
         {
+            "Key": "ef32c5aa-f939-4375-861b-4de99dcd5614",
+            "Value": {
+                "id": "06e66402-6dec-4997-9853-34a75c9b4815",
+                "resourcePath": "sprites\\s_meteorablaze\\s_meteorablaze.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ef906d77-5c47-4d01-bc89-71739451d15b",
             "Value": {
                 "id": "d6edb812-fc02-46f5-9c28-c90cb855569d",

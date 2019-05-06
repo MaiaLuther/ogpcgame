@@ -1,3 +1,4 @@
+randomize();
 global.my_lives = 5;
 global.player_name = "";
 global.player_score = 0;
