@@ -1,38 +1,38 @@
 {
-    "id": "8036e0cb-7d6a-4582-b7eb-8abd7a64bb00",
+    "id": "f800c8ae-68e0-49f2-9cae-2d41477086db",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_game",
+    "name": "o_blazingmeteor",
     "eventList": [
         {
-            "id": "0311553a-eb0c-4d33-b351-f84fe076186b",
+            "id": "9e7edd6a-9588-4aa7-820b-a5019bd0d473",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "8036e0cb-7d6a-4582-b7eb-8abd7a64bb00"
+            "m_owner": "f800c8ae-68e0-49f2-9cae-2d41477086db"
         },
         {
-            "id": "0845e578-988e-4b44-a1b5-ca5cc8581814",
+            "id": "88e9bce7-4504-4cad-84ca-41eeec06615e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "8036e0cb-7d6a-4582-b7eb-8abd7a64bb00"
+            "eventtype": 3,
+            "m_owner": "f800c8ae-68e0-49f2-9cae-2d41477086db"
         },
         {
-            "id": "557a9605-9dea-4ee6-969c-4a142afe4eed",
+            "id": "fa697975-fefa-4076-bcb2-7adbe1983b9d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 2,
-            "m_owner": "8036e0cb-7d6a-4582-b7eb-8abd7a64bb00"
+            "enumb": 0,
+            "eventtype": 7,
+            "m_owner": "f800c8ae-68e0-49f2-9cae-2d41477086db"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "ef32c5aa-f939-4375-861b-4de99dcd5614",
     "visible": true
 }

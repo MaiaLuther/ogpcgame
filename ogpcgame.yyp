@@ -1855,6 +1855,14 @@
             }
         },
         {
+            "Key": "f800c8ae-68e0-49f2-9cae-2d41477086db",
+            "Value": {
+                "id": "4af5332e-e065-44b0-8fb4-48a6c6391ed4",
+                "resourcePath": "objects\\o_blazingmeteor\\o_blazingmeteor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f9574826-ba8c-4fd0-a66d-b8febb29ea4b",
             "Value": {
                 "id": "38340209-f396-4579-93c1-810f506588ae",
