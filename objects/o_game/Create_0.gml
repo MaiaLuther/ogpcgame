@@ -15,3 +15,5 @@ repeat (3) {
 }
 
 alarm[1] = 300;
+
+alien_spawned = false;
