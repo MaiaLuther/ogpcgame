@@ -16,7 +16,9 @@
         "6089f250-d1ca-4001-ae52-54e0c0ec8840",
         "1d9424b8-b801-47ad-9649-9af93b2d9d1a",
         "60e1a474-f782-4d56-b7a2-fed06eb034c5",
-        "edc548e4-94af-4652-9c45-49dcde244b89"
+        "edc548e4-94af-4652-9c45-49dcde244b89",
+        "41acf7b2-b0eb-4577-9411-92650929dae1",
+        "a8d23966-4857-47c5-b14b-fac87ea6a08a"
     ],
     "filterType": "GMSprite",
     "folderName": "Easteregg",
