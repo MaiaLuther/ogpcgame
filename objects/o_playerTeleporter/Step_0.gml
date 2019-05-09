@@ -1,4 +1,4 @@
-if (keyboard_check_released(vk_space)) {
+if (keyboard_check_released(vk_space) or gamepad_button_check_pressed(0, gp_shoulderl)) {
 	if (! pauseEE) {
 		pauseEE = true;
 		instance_deactivate_all(true);
@@ -14,11 +14,15 @@ if (pauseEE) {
 	exit;
 }
 
-var up = keyboard_check(vk_up) or keyboard_check(ord("W"));
-var right = keyboard_check(vk_right) or keyboard_check(ord("D"));
-var left = keyboard_check(vk_left) or keyboard_check(ord("A"));
-var down = keyboard_check(vk_down) or keyboard_check(ord("S"));
-var teleport = keyboard_check(ord("T"));
+var up = keyboard_check(vk_up) 
+		or keyboard_check(ord("W")) or gamepad_button_check(0, gp_padu);
+var right = keyboard_check(vk_right) 
+		or keyboard_check(ord("D")) or gamepad_button_check(0, gp_padr);
+var left = keyboard_check(vk_left) 
+		or keyboard_check(ord("A")) or gamepad_button_check(0, gp_padl);
+var down = keyboard_check(vk_down) 
+		or keyboard_check(ord("S")) or gamepad_button_check(0, gp_padd);
+var teleport = keyboard_check(ord("T")) or gamepad_button_check_pressed(0, gp_shoulderr);
 var our_speed = 10;
 var xx = 0;
 var yy = 0;
