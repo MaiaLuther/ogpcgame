@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "4ef7808a-b55c-4f32-95fd-2656b6c583e1",
+            "Value": {
+                "id": "4f05361f-cb27-43cf-95f8-6f13a2043880",
+                "resourcePath": "sprites\\s_virtual_button\\s_virtual_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4fffca86-caf1-408e-9e01-2018fa2e8dc8",
             "Value": {
                 "id": "a14c3fab-283d-4304-8a44-6e36e7ea455e",
@@ -1287,6 +1295,14 @@
             }
         },
         {
+            "Key": "ac189098-e1ae-4675-ad4e-2e990bb96fc1",
+            "Value": {
+                "id": "a564e604-fcbb-427a-8431-1a6d4208e769",
+                "resourcePath": "sprites\\s_virtual_arrow\\s_virtual_arrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ad685d6f-bba5-479b-94f2-14a9c8517a08",
             "Value": {
                 "id": "2d48da44-1bed-4345-ac87-b7dd9ec9474e",
@@ -1455,6 +1471,14 @@
             }
         },
         {
+            "Key": "c0910c0b-f6b5-4fe0-9050-8535cfa851e6",
+            "Value": {
+                "id": "a551ceab-c119-4e60-ba33-345433c7ce24",
+                "resourcePath": "objects\\o_virtual_button\\o_virtual_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c0de7fad-0836-41b6-9a56-7cd178a3ad34",
             "Value": {
                 "id": "9ff6f057-a289-42f6-85f2-f5fe70377239",
@@ -1559,6 +1583,14 @@
             }
         },
         {
+            "Key": "db6f7ce6-705d-4e75-bc9f-ad464a4fb1d5",
+            "Value": {
+                "id": "f5c65ddc-e134-4954-a385-b9a3589e2e30",
+                "resourcePath": "objects\\o_virtual_arrow\\o_virtual_arrow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd3114a7-e850-4420-aa03-aa3ee073250d",
             "Value": {
                 "id": "769373fd-7ce6-4609-b48c-9a4a1a73ceb4",
@@ -1595,6 +1627,14 @@
             "Value": {
                 "id": "245570c2-b8d6-4545-8a55-e260b75ffe61",
                 "resourcePath": "objects\/o_o2EE\/o_o2EE.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "df1960b6-c9ed-4197-9e94-52fd5eec9052",
+            "Value": {
+                "id": "188de4f7-2733-4d3c-9aa2-c072bcfdecea",
+                "resourcePath": "objects\\o_virtual_arrows\\o_virtual_arrows.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -1,7 +1,7 @@
 {
     "id": "083f82e6-9a76-4543-aa46-6911a353d2eb",
     "modelName": "GMFont",
-    "mvc": "1.1",
+    "mvc": "1.0",
     "name": "f_arcadetext",
     "AntiAlias": 1,
     "TTFName": "",
@@ -10,7 +10,6 @@
     "charset": 0,
     "first": 0,
     "fontName": "Kozuka Mincho Pro",
-    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -1453,16 +1452,13 @@
             }
         }
     ],
-    "hinting": 0,
+    "image": null,
     "includeTTF": false,
-    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         
     ],
     "last": 0,
-    "maintainGms1Font": false,
-    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,

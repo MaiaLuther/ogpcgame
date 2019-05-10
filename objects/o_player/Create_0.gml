@@ -10,3 +10,5 @@ alarm[0] = o2_tick;
 plant = 0;
 mylives = 5;
 pause = false;
+
+instance_create_layer(10, 10, "Instances", o_virtual_arrows);
