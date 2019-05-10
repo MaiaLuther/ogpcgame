@@ -1,3 +1,4 @@
+//Pause feature
 if (keyboard_check_released(vk_space) or gamepad_button_check_pressed(0, gp_shoulderl)) {
 	if (! pauseEE) {
 		pauseEE = true;
@@ -14,6 +15,7 @@ if (pauseEE) {
 	exit;
 }
 
+//WASD keys
 var up = keyboard_check(vk_up) 
 		or keyboard_check(ord("W")) or gamepad_button_check(0, gp_padu);
 var right = keyboard_check(vk_right) 
@@ -68,5 +70,6 @@ if (o2EE <= 0) {
 	player_diesEE();
 }
 
+//Lets you move from opposite sides of the room
 move_wrap(true,true,36);
 

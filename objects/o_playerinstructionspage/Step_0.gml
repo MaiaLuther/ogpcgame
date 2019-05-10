@@ -1,3 +1,4 @@
+//WASD movement
 var up = keyboard_check(vk_up) or keyboard_check(ord("W"));
 var right = keyboard_check(vk_right) or keyboard_check(ord("D"));
 var left = keyboard_check(vk_left) or keyboard_check(ord("A"));
@@ -35,4 +36,5 @@ if (yy != 0) {
 	y = yy;
 }
 
+//Lets you go between opposite sides of the room
 move_wrap(true,true,36);

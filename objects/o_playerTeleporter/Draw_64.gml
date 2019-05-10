@@ -1,4 +1,4 @@
-
+//Shows "PAUSE"
 
 if (pauseEE) {
 	var c = c_white;

@@ -27,11 +27,3 @@ if o_player.plant > 40 {
 		instance_create_layer(xx,0,"Instances",o_blazingmeteor);
 	}
 }
-
-///Adds alien at 30 plants
-if (o_player.plant == 0) {
-	if alien_spawned == false {
-		instance_create_layer(0,room_height/2,"Instances",o_alienboi);
-	}
-	alien_spawned = true;
-}

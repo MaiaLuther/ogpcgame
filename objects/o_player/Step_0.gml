@@ -1,8 +1,8 @@
+//Pause feature
 if (keyboard_check_released(vk_space) or gamepad_button_check_pressed(0, gp_shoulderl)) {
 	if (! pause) {
 		pause = true;
 		instance_deactivate_all(true);
-//		alarm[0] = -1;
 		speed = 0;
 		
 	} else {
@@ -16,6 +16,7 @@ if (pause) {
 	exit;
 }
 
+//WASD keys
 var up = keyboard_check(vk_up) 
 		or keyboard_check(ord("W")) or gamepad_button_check(0, gp_padu);
 var right = keyboard_check(vk_right) 
@@ -64,5 +65,6 @@ if (o2 <= 0) {
 	player_dies();
 }
 
+//Lets you go to opposite sides of the room
 move_wrap(true,true,36);
 
