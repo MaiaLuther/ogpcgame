@@ -4,3 +4,4 @@ if (string_length(keyboard_string) <= limit) {
 } else {
     keyboard_string = message;
 }
+gp_enter_script();
